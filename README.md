@@ -1,6 +1,6 @@
 ### Hi there, I'm [adinxu!](https://adinxu.github.io) :crossed_fingers:
 
-## I'm a Developer 
+## I'm a Developer, Gamer
 
 - 🌱 I’m currently learning Python/Golang
 - 🥅 2021 Goals: Contribute more to Open Source projects
