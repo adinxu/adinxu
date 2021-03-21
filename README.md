@@ -7,11 +7,11 @@
 
 ### Connect with me:
 <a href="https://steamcommunity.com/id/xwd2468/">
-  <img align="left" alt="qq" width="21px" color="#EB1923" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tencentqq.svg" />
+  <img align="left" alt="qq" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tencentqq.svg" />
 </a>
 
 <a href="https://steamcommunity.com/id/xwd2468/">
-  <img align="left" alt="wechat" width="21px" color="#07C160" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wechat.svg" />
+  <img align="left" alt="wechat" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wechat.svg" />
 </a>
 
 <a href="https://steamcommunity.com/id/xwd2468/">
