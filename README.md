@@ -6,11 +6,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
-<a href="https://steamcommunity.com/id/xwd2468/">
+<a href="qq:1334585420">
   <img align="left" alt="qq" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tencentqq.svg" />
 </a>
 
-<a href="https://steamcommunity.com/id/xwd2468/">
+<a href="wechat:h66260x">
   <img align="left" alt="wechat" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wechat.svg" />
 </a>
 
