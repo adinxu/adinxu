@@ -6,6 +6,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
+<!--- hi, you found my qq and wechat accounts now! lol --->
 <a href="#qq:1334585420">
   <img align="left" alt="qq" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tencentqq.svg" />
 </a>
