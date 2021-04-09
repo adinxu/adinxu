@@ -41,18 +41,18 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-adinxu.vercel.app/api?username=adinxu&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats-adinxu.vercel.app/api?username=adinxu&show_icons=true&include_all_commits=true&theme=material-palenight" alt="github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats-adinxu.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-adinxu.vercel.app/api/top-langs/?username=adinxu&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-adinxu.vercel.app/api/top-langs/?username=adinxu&layout=compact&theme=material-palenight" alt="github top-langs"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats-adinxu.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-adinxu.vercel.app/api/pin/?username=adinxu&repo=SerialPortTool&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-adinxu.vercel.app/api/pin/?username=adinxu&repo=SerialPortTool&theme=material-palenight" alt="github pin1"/>
 </a>    
 <a href="https://github.com/adinxu/adinxu.github.io">
   <!-- Change the `github-readme-stats-adinxu.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-adinxu.vercel.app/api/pin/?username=adinxu&repo=adinxu.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-adinxu.vercel.app/api/pin/?username=adinxu&repo=adinxu.github.io&theme=material-palenight" alt="github pin2"/>
 </a>
