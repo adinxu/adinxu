@@ -52,4 +52,4 @@
   <img align="center" src="https://github-readme-stats-adinxu.vercel.app/api/pin/?username=adinxu&repo=adinxu.github.io&theme=buefy" />
 </a>
 
-
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001486.af32abfa8d1447ccba31454e7a528b7a.1456)](https://github.com/rayriffy/apple-music-github-profile)
